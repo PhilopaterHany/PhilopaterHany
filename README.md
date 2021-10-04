@@ -14,7 +14,7 @@
 <a href="https://fb.com/philopaterhany.3" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.svg" alt="philopaterhany.3" height="40" width="40" /></a>
 <a href="https://twitter.com/PhilopaterHany4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="philopaterhany4" height="30" width="40" /></a>
 <a href="https://www.instagram.com/phil0_1832/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phil0_1832" height="30" width="40" /></a>
-<a href="https://codepen.io/rafay12" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="rafay12" height="37" width="40" /></a>
+<a href="https://codepen.io/Rafay12" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Rafay12" height="37" width="40" /></a>
 <a href="https://www.hackerrank.com/philopater_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="philopater_hany" height="37" width="40" /></a>
 </p>
 
