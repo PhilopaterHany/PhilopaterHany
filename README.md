@@ -6,7 +6,7 @@
 - 💬 Ask me about **HTML5, CSS3, SCSS, Pug.js & JavaScript**
 
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philopaterhany&theme=radical" alt="philopaterhany" /></a></p>
+<p><img  align="left" src="https://github-profile-trophy.vercel.app/?username=philopaterhany&theme=radical" alt="philopaterhany" /></p>
 
 <h3 align="left">Contact Me</h3>
 <p align="left">
