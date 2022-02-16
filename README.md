@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philopater Hany</h1>
 <h3 align="center">A Passionate Frontend Developer From Egypt</h3>
 
-- 🌱 I’m currently learning **JavaScript OOP & AJAX**
+- 🌱 I’m currently learning **JSON & AJAX**
 
 - 💬 Ask me about **HTML5, CSS3, SCSS, Pug.js & JavaScript**
 
