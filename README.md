@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Philopater Hany</h1>
 <h3 align="center">A Passionate Frontend Developer From Egypt</h3>
 
-- 🌱 I’m currently learning **JSON & AJAX**
+- 🌱 ![Learning](https://readme-typing-svg.herokuapp.com?lines=I%E2%80%99m+currently+learning+PHP)
 
-- 💬 Ask me about **HTML5, CSS3, SCSS, Pug.js & JavaScript**
+- 💬 ![Skills](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+Skills;HTML%2C+CSS%2C+Bootstrap%2C+SCSS%2CPug.js%2C++JavaScript%2C+JSON%2C+AJAX)
 
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=philopaterhany&theme=radical" alt="philopaterhany" /></p>
