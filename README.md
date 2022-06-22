@@ -10,12 +10,12 @@
 
 <h3 align="left">Contact Me</h3>
 <p align="left">
-<a href="https://discord.gg/#8178" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="#8178" height="30" width="40" /></a>
-<a href="https://fb.com/philopaterhany.3" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.svg" alt="philopaterhany.3" height="40" width="40" /></a>
+<a href="https://fb.com/philopaterhany.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="philopaterhany.3" height="30" width="40" /></a>
 <a href="https://twitter.com/PhilopaterHany4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="philopaterhany4" height="30" width="40" /></a>
 <a href="https://www.instagram.com/phil0_1832/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phil0_1832" height="30" width="40" /></a>
 <a href="https://codepen.io/Rafay12" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Rafay12" height="37" width="40" /></a>
-<a href="https://www.hackerrank.com/philopater_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="philopater_hany" height="37" width="40" /></a>
+<a href="https://www.hackerrank.com/philopater_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="philopater_hany" height="30" width="40" /></a>
+<a href="https://discord.gg/#8178" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="#8178" height="30" width="30" /></a>
 </p>
 
 ---
