@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philopater Hany</h1>
 <h3 align="center">A Passionate Frontend Developer From Egypt</h3>
 
-![Learning](https://readme-typing-svg.herokuapp.com?lines=I%E2%80%99m+currently+learning+PHP)
+![Learning](https://readme-typing-svg.herokuapp.com?lines=I%E2%80%99m+currently+learning+Python)
 
 ![Skills](https://readme-typing-svg.herokuapp.com?width=850&lines=My+Skills+are%3A+HTML%2C+CSS%2C+Bootstrap%2C+SCSS%2C+Pug%2Cjs%2C+JavaScript%2C+JSON%2C+AJAX)
 
@@ -15,6 +15,8 @@
 <a href="https://www.instagram.com/phil0_1832/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phil0_1832" height="30" width="40" /></a>
 <a href="https://codepen.io/Rafay12" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Rafay12" height="37" width="40" /></a>
 <a href="https://www.hackerrank.com/philopater_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="philopater_hany" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Philopater_Hany" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Philopater_Hany" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Philo1211" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Philo1211" height="30" width="40" /></a>
 <a href="https://discord.gg/#8178" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="#8178" height="30" width="30" /></a>
 </p>
 
@@ -28,9 +30,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="https://pugjs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+<!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> -->
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
 ---
