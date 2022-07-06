@@ -71,22 +71,21 @@
     <img src="https://img.shields.io/badge/-PugJS-333?style=for-the-badge" alt="PugJS"  />
     <img src="https://img.shields.io/badge/-Python-333?logo=python&amp;style=for-the-badge" alt="Python" />
     <img src="https://img.shields.io/badge/-Git-333?logo=git&amp;style=for-the-badge" alt="Git"  />
-    <img src="https://img.shields.io/badge/-VS Code-333?logo=visualstudiocode&amp;style=for-the-badge&logoColor=blue" alt="VS Code"  />
 </div>
 
 ---
 
 ### :fire: My Stats :
 
-<!-- 
-  <p><img src="https://github-profile-trophy.vercel.app/?username=philopaterhany&theme=dark" width="400" /></p>
--->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterhany&layout=compact&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterhany&layout=compact&theme=radical" width="400" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=philopaterhany&show_icons=true&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=philopaterhany&show_icons=true&theme=radical" width="400" />
 </p>
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=philopaterhany&theme=dark&date_format=j%20M%5B%20Y%5D" width="400" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=philopaterhany&theme=radical&date_format=j%20M%5B%20Y%5D" width="400" />
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=philopaterhany&theme=radical" />
 </p>
