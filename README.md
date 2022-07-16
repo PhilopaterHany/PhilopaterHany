@@ -34,7 +34,7 @@
 
 ### :man_technologist: About Me :
 
-<img width="400" height="230" align="right" alt="Github" src="https://i.ibb.co/HFKPdV5/about-me.png" />&nbsp;
+<img width="400" height="230" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />&nbsp;
 
 - :books: I’m Currently Studying In High School.
 
