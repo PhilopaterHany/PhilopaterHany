@@ -63,12 +63,13 @@
 <div>
     <img src="https://img.shields.io/badge/-Html-333?logo=html5&amp;style=for-the-badge" alt="HTML" />
     <img src="https://img.shields.io/badge/-Css-333?logo=css3&amp;style=for-the-badge&logoColor=blue" alt="CSS" />
-    <img src="https://img.shields.io/badge/-Javascript-333?logo=javascript&amp;style=for-the-badge" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&amp;style=for-the-badge" alt="Bootstrap" />
-     <img src="https://img.shields.io/badge/-Sass-333?logo=sass&amp;style=for-the-badge" alt="Sass" />
+    <img src="https://img.shields.io/badge/-Javascript-333?logo=javascript&amp;style=for-the-badge" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-Json-333?style=for-the-badge" alt="Json"  />
     <img src="https://img.shields.io/badge/-Ajax-333?style=for-the-badge" alt="Ajax"  />
-    <img src="https://img.shields.io/badge/-PugJS-333?style=for-the-badge" alt="PugJS"  />
+    <img src="https://img.shields.io/badge/-Pug.js-333?logo=pug&amp;style=for-the-badge" alt="Pug.js"  />
+    <img src="https://img.shields.io/badge/-Sass-333?logo=sass&amp;style=for-the-badge" alt="Sass" />
+    <img src="https://img.shields.io/badge/-Gulp.js-333?logo=gulp&amp;style=for-the-badge" alt="Gulp.js" />
     <img src="https://img.shields.io/badge/-Python-333?logo=python&amp;style=for-the-badge" alt="Python" />
     <img src="https://img.shields.io/badge/-Git-333?logo=git&amp;style=for-the-badge" alt="Git"  />
 </div>
