@@ -13,9 +13,9 @@
   <a href="mailto:philopaterdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-<!--   <a href="">
+  <a href="https://www.linkedin.com/in/philopater-hany/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a> -->
+  </a>
 </div>
 <div align="center">
   <a href="https://www.hackerrank.com/Philopater_Hany">
