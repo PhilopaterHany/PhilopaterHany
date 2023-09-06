@@ -74,6 +74,7 @@
     <picture><img src="https://img.shields.io/badge/-Gulp.js-333?logo=gulp&style=for-the-badge" alt="Gulp.js" /></picture>
     <picture><img src="https://img.shields.io/badge/-Python-333?logo=python&style=for-the-badge" alt="Python" /></picture>
     <!-- <picture><img src="https://img.shields.io/badge/-PHP-333?logo=php&style=for-the-badge" alt="PHP" /></picture> -->
+    <!-- <picture><img src="https://img.shields.io/badge/-node.js-333?logo=nodedotjs&style=for-the-badge" alt="Node.js" /></picture> -->
     <!-- <picture><img src="https://img.shields.io/badge/-C++-333?logo=cplusplus&style=for-the-badge" alt="C++" /></picture> -->
     <picture><img src="https://img.shields.io/badge/-Git-333?logo=git&style=for-the-badge" alt="Git" /></picture>
 </div>
