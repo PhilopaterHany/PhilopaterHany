@@ -25,7 +25,7 @@
   <a href="https://leetcode.com/Philo1211/">
     <img src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/Philopater_Hany">
+  <a href="https://codeforces.com/profile/PhilopaterHany">
     <img src="https://img.shields.io/badge/Codeforces-b51c24?logo=codeforces&logoColor=white&style=for-the-badge" alt="CodeForces" />
   </a>
   <a href="https://codepen.io/Rafay12/">
