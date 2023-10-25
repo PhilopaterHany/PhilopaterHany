@@ -1,5 +1,5 @@
-<h1 align="center">Hey There Buddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">I'm a Passionate Web Developer</h3>
+<h1 align="center">Warm Greetings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h3 align="center">I'm a Passionate Doctor/Web Developer</h3>
 
 <div align="center">
   <a href="https://facebook.com/philopater.hany.3/">
@@ -45,38 +45,43 @@
 ### :man_technologist: About Me
 
 <picture>
-  <img width="450" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" /></picture>&nbsp;
+  <img width="400" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" /></picture>&nbsp;
 
-- :man_health_worker: I’m currently studying medicine at [ASU](https://www.asu.edu.eg/).
+- :man_health_worker: I'm currently a medical student at [ASU](https://www.asu.edu.eg/).
 
-- :running_man: I enjoy playing sports and do so regularly.
+- :running_man: I have a passion for sports and stay active on a regular basis.
 
-- :clock7: In my free time, I enjoy learning web development.
+- :clock7: During my free time, I'm dedicated to learning web development.
 
-- :telescope: Seeking for knowledge & acquiring new skills.
+- :telescope: I have a thirst for knowledge and continuously seek to acquire new skills.
 
-- :man_teacher: Nowadays, I'm learning React.js & Typescript.
+- :man_teacher: Currently, I'm honing my skills in React.js and Typescript.
 
 <br />
 <br />
 
-### :hammer_and_wrench: My Skills
+### :hammer_and_wrench: Skills & Technologies
 
 <div>
-    <picture><img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" /></picture>
-    <picture><img src="https://img.shields.io/badge/-Css-333?logo=css3&style=for-the-badge&logoColor=blue" alt="CSS" /></picture>
-    <picture><img src="https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=for-the-badge" alt="Bootstrap" /></picture>
-    <picture><img src="https://img.shields.io/badge/-Javascript%20+%20ES6-333?logo=javascript&style=for-the-badge" alt="JavaScript" /></picture>
-    <!-- <picture><img src="https://img.shields.io/badge/-TypeScript-333?logo=typescript&style=for-the-badge" alt="TypeScript" /></picture> -->
-    <!-- <picture><img src="https://img.shields.io/badge/-React-333?logo=react&style=for-the-badge" alt="React.js" /></picture> -->
-    <picture><img src="https://img.shields.io/badge/-Pug.js-333?logo=pug&style=for-the-badge" alt="Pug.js"  /></picture>
-    <picture><img src="https://img.shields.io/badge/-SCSS-333?logo=sass&style=for-the-badge" alt="SCSS" /></picture>
-    <picture><img src="https://img.shields.io/badge/-Gulp.js-333?logo=gulp&style=for-the-badge" alt="Gulp.js" /></picture>
-    <picture><img src="https://img.shields.io/badge/-Python-333?logo=python&style=for-the-badge" alt="Python" /></picture>
-    <!-- <picture><img src="https://img.shields.io/badge/-PHP-333?logo=php&style=for-the-badge" alt="PHP" /></picture> -->
-    <!-- <picture><img src="https://img.shields.io/badge/-node.js-333?logo=nodedotjs&style=for-the-badge" alt="Node.js" /></picture> -->
-    <!-- <picture><img src="https://img.shields.io/badge/-C++-333?logo=cplusplus&style=for-the-badge" alt="C++" /></picture> -->
-    <picture><img src="https://img.shields.io/badge/-Git-333?logo=git&style=for-the-badge" alt="Git" /></picture>
+    <picture><img src="https://img.shields.io/badge/html5-E34C26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" /></picture>
+    <picture><img src="https://img.shields.io/badge/css3-264DE4?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" /></picture>
+    <picture><img src="https://img.shields.io/badge/javascript-F0DB4D?logo=javascript&logoColor=323330&style=for-the-badge" alt="JavaScript" /></picture>   
+    <br />
+    <picture><img src="https://img.shields.io/badge/scss-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS" /></picture>
+    <picture><img src="https://img.shields.io/badge/pug.js-56361C?logo=pug&logoColor=white&style=for-the-badge" alt="Pug.js" /></picture>
+    <picture><img src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" /></picture>
+    <br />
+    <!-- <picture><img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /></picture> -->
+    <!-- <picture><img src="https://img.shields.io/badge/react.js-61DBFB?logo=react&logoColor=black&style=for-the-badge" alt="React.js" /></picture> -->
+    <!-- <picture><img src="https://img.shields.io/badge/node.js-3C873A?logo=nodedotjs&logoColor=black&style=for-the-badge" alt="Node.js" /></picture> -->
+    <picture><img src="https://img.shields.io/badge/gulp.js-DB4446?logo=gulp&logoColor=white&style=for-the-badge" alt="Gulp.js" /></picture>
+    <br />
+    <picture><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python" /></picture>
+    <!-- <picture><img src="https://img.shields.io/badge/php-777BB3?logo=php&logoColor=white&style=for-the-badge" alt="PHP" /></picture> -->
+    <picture><img src="https://img.shields.io/badge/C++-044F88?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" /></picture>
+    <br />
+    <picture><img src="https://img.shields.io/badge/git-F1502F?logo=git&logoColor=white&style=for-the-badge" alt="Git" /></picture>
+    <!-- <picture><img src="https://img.shields.io/badge/linux-0040AD?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" /></picture> -->
 </div>
 
 <br />
