@@ -8,7 +8,7 @@
   <a href="https://twitter.com/PhilopaterHany4/">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/phiio.hany47 /">
+  <a href="https://www.instagram.com/philo.hany47/">
     <img src="https://img.shields.io/badge/Instagram-833ab4?logo=instagram&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
   <a href="mailto:philopaterdev@gmail.com">
