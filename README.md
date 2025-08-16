@@ -36,8 +36,6 @@
 
 ### :man_technologist: About Me
 
-<picture>
-  <img width="400" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" /></picture>&nbsp;
 
 - :man_health_worker: I'm a medical student at Ain Shams University.
 
@@ -81,7 +79,4 @@
 
 ### :fire: Github Stats
 
-<picture><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhilopaterHany&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" width="47.5%" /></picture>&nbsp;
-<picture><img alt="Github Stats" src="https://streak-stats.demolab.com?user=PhilopaterHany&theme=dracula&hide_border=true" width="50.5%" /></picture>&nbsp;
-<picture><img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhilopaterHany&theme=dracula" width="32.5%" /></picture>
-<picture><img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilopaterHany&theme=dracula" width="67%" /></picture>
+<picture><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhilopaterHany&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" /></picture>
