@@ -1,6 +1,4 @@
 <h1 align="center">Warm Greetings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">I'm a Passionate Doctor/Web Developer</h3>
-
 <div align="center">
   <a href="https://facebook.com/philopater.hany.3/">
     <img src="https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
@@ -19,12 +17,6 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://www.hackerrank.com/Philopater_Hany">
-    <img src="https://img.shields.io/badge/Hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/Philo1211/">
-    <img src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
-  </a>
   <a href="https://codeforces.com/profile/PhilopaterHany">
     <img src="https://img.shields.io/badge/Codeforces-b51c24?logo=codeforces&logoColor=white&style=for-the-badge" alt="CodeForces" />
   </a>
@@ -47,15 +39,15 @@
 <picture>
   <img width="400" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" /></picture>&nbsp;
 
-- :man_health_worker: I'm currently a medical student at [ASU](https://www.asu.edu.eg/).
+- :man_health_worker: I'm a medical student at Ain Shams University.
 
-- :running_man: I have a passion for sports and stay active on a regular basis.
+- :running_man: I have a passion for sports and staying active.
 
-- :clock7: During my free time, I'm dedicated to learning web development.
+- :clock7: I love learning web development.
 
 - :telescope: I have a thirst for knowledge and continuously seek to acquire new skills.
 
-- :man_teacher: Currently, I'm honing my skills in React.js and Typescript.
+- :man_teacher: Currently, I'm learning React.js and Typescript.
 
 <br />
 <br />
@@ -93,10 +85,3 @@
 <picture><img alt="Github Stats" src="https://streak-stats.demolab.com?user=PhilopaterHany&theme=dracula&hide_border=true" width="50.5%" /></picture>&nbsp;
 <picture><img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhilopaterHany&theme=dracula" width="32.5%" /></picture>
 <picture><img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilopaterHany&theme=dracula" width="67%" /></picture>
-
-<br />
-<br />
-
-### :trophy: Trophies
-
-<picture><img  alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=PhilopaterHany&theme=dracula&column=7&margin-w=5&no-frame=true" width="100%" /></picture>
